@@ -1,0 +1,3 @@
+#!/bin/sh
+uicache -p /Applications/EnvScan.app >/dev/null 2>&1 || true
+exit 0

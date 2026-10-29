@@ -1,0 +1,8 @@
+Package: com.ganbi.envscan
+Name: EnvScan
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Description: Scans the device/jailbreak/tweak environment and exports a text report.
+Maintainer: Ganbi
+Author: Ganbi
+Section: Utilities
